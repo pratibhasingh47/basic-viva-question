@@ -16,3 +16,8 @@ Common data structures include arrays, linked lists, stacks, queues, trees, and 
 <hr>
 
 ## Question 3 -> What are the various operations that can be performed on different Data Structures ?
+
+**Operations on different Data Structure:-**
+
+=> ***Traversing***: Traversing a Data Structure means to visit the element stored in it. It visits data in a systematic manner. This can be done with any type of DS. 
+Below is the program to illustrate traversal in an array, stack, queue and linkedlist:
