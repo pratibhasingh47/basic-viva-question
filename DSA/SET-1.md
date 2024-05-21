@@ -9,6 +9,6 @@ Common data structures include arrays, linked lists, stacks, queues, trees, and 
 
 ## Question 2 -> What are linear and non-linear data Structures?  ?
 
-Linear Data Structures: These structures store data in a sequential order this allowing for easy insertion and deletion operations. Examples include arrays, linked lists, and queues.
+***Linear Data Structures***: These structures store data in a sequential order this allowing for easy insertion and deletion operations. Examples include arrays, linked lists, and queues.
 
-Non-Linear Data Structures: These structures store data in a hierarchical or interconnected manner this allowing for more complex relationships between data elements. Examples include trees, graphs, and hash tables.
+***Non-Linear Data Structures***: These structures store data in a hierarchical or interconnected manner this allowing for more complex relationships between data elements. Examples include trees, graphs, and hash tables.
