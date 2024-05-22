@@ -50,3 +50,8 @@ Applications of Stack:-
 * Reverse a String using Stack.
 * Implement two stacks in an array
 * Check for balanced parentheses in an expression. 
+
+
+<hr>
+
+## Question 6 -> What is a Queue, how it is different from the stack and how is it implemented? 
