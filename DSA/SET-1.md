@@ -43,3 +43,9 @@ Below is the program to illustrate traversal in an array, stack, queue and linke
 ## Question 5 -> What is Stack and where it can be used ? 
 
 A stack is a linear data structure in which the insertion of a new element and removal of an existing element takes place at the same end represented as the top of the stack.
+
+* Infix to Postfix Conversion using Stack.
+* Evaluation of Postfix Expression
+* Reverse a String using Stack.
+* Implement two stacks in an array
+* Check for balanced parentheses in an expression. 
