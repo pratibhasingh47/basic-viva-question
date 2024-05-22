@@ -37,3 +37,7 @@ Below is the program to illustrate traversal in an array, stack, queue and linke
 ***Linked List***: Linked lists are less rigid in their storage structure and elements are usually not stored in contiguous locations, hence they need to be stored with additional tags giving a reference to the next element. 
 
 <img src='./images/img1.png' height=240px width='auto'>
+
+<hr>
+
+## Question 5 -> What is Stack and where it can be used ? 
