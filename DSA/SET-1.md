@@ -68,7 +68,7 @@ Applications of queue:
 * Queue data structure is implemented in the hardware microinstructions inside a CPU.
 * Queue structure is used in most operating systems.
 
-<!-- <hr> -->
+<hr>
 
 <!-- ## Question 5 -> What is Infix, prefix, Postfix notations? -->
 
