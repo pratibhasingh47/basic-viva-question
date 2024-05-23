@@ -72,7 +72,7 @@ Applications of queue:
 
 ## Question 5 -> What is Infix, prefix, Postfix notations?
 
-<!-- **Infix** notation is easy to read and understand for humans, but it can be difficult for computers to evaluate efficiently. This is because the order of operations must be taken into account, and parentheses can be used to override the default order of operations. -->
+**Infix** notation is easy to read and understand for humans, but it can be difficult for computers to evaluate efficiently. This is because the order of operations must be taken into account, and parentheses can be used to override the default order of operations.
 
 <!-- In **prefix** notation, the operator is written first, followed by its operands. For example, the infix expression “a + b” would be written as “+ a b” in prefix notation. -->
 
