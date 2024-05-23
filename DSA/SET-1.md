@@ -81,7 +81,7 @@ In **postfix** notation, operands are written first, followed by the operator. F
 
 <hr>
 
-<!-- ## Question 5 -> What is a Linked List and What are its types?  -->
+## Question 5 -> What is a Linked List and What are its types? 
 
 <!-- A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers. In simple words, a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.  -->
 
