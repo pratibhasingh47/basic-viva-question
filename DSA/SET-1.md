@@ -70,7 +70,7 @@ Applications of queue:
 
 <hr>
 
-<!-- ## Question 5 -> What is Infix, prefix, Postfix notations? -->
+## Question 5 -> What is Infix, prefix, Postfix notations?
 
 <!-- **Infix** notation is easy to read and understand for humans, but it can be difficult for computers to evaluate efficiently. This is because the order of operations must be taken into account, and parentheses can be used to override the default order of operations. -->
 
