@@ -70,7 +70,7 @@ Applications of queue:
 
 <hr>
 
-## Question 5 -> What is Infix, prefix, Postfix notations?
+## Question 7 -> What is Infix, prefix, Postfix notations?
 
 **Infix** notation is easy to read and understand for humans, but it can be difficult for computers to evaluate efficiently. This is because the order of operations must be taken into account, and parentheses can be used to override the default order of operations.
 
@@ -81,7 +81,7 @@ In **postfix** notation, operands are written first, followed by the operator. F
 
 <hr>
 
-## Question 5 -> What is a Linked List and What are its types? 
+## Question 8 -> What is a Linked List and What are its types? 
 
 A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers. In simple words, a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list. 
 
