@@ -86,13 +86,13 @@ In **postfix** notation, operands are written first, followed by the operator. F
 A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers. In simple words, a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list. 
 
 Types Of Linked List:
-* Singly Linked List - 
+* **Singly Linked List -**
 It is the simplest type of linked list in which every node contains some data and a pointer to the next node of the same data type. 
 
-*  Doubly Linked List - 
+*  **Doubly Linked List -**
 A doubly linked list or a two-way linked list is a more complex type of linked list that contains a pointer to the next as well as the previous node in sequence. 
 
-*  Circular Linked List -
+*  **Circular Linked List -**
 A circular linked list is that in which the last node contains the pointer to the first node of the list. 
 
 *  Doubly Circular linked list -
