@@ -79,7 +79,7 @@ In **prefix** notation, the operator is written first, followed by its operands.
 In **postfix** notation, operands are written first, followed by the operator. For example, the infix expression “5 + 2” would be written as “5 2 +” in postfix notation.
 
 
-<!-- <hr> -->
+<hr>
 
 <!-- ## Question 5 -> What is a Linked List and What are its types?  -->
 
