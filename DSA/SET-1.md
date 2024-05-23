@@ -87,13 +87,13 @@ A linked list is a linear data structure, in which the elements are not stored a
 
 Types Of Linked List:
 * Singly Linked List - 
-<!-- It is the simplest type of linked list in which every node contains some data and a pointer to the next node of the same data type.  -->
+It is the simplest type of linked list in which every node contains some data and a pointer to the next node of the same data type. 
 
 *  Doubly Linked List - 
-<!-- A doubly linked list or a two-way linked list is a more complex type of linked list that contains a pointer to the next as well as the previous node in sequence.  -->
+A doubly linked list or a two-way linked list is a more complex type of linked list that contains a pointer to the next as well as the previous node in sequence. 
 
 *  Circular Linked List -
-<!-- A circular linked list is that in which the last node contains the pointer to the first node of the list.  -->
+A circular linked list is that in which the last node contains the pointer to the first node of the list. 
 
 *  Doubly Circular linked list -
 <!-- A Doubly Circular linked list or a circular two-way linked list is a more complex type of linked list that contains a pointer to the next as well as the previous node in the sequence. The difference between the doubly linked and circular doubly list is the same as that between a singly linked list and a circular linked list. The circular doubly linked list does not contain null in the previous field of the first node -->
