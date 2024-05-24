@@ -105,3 +105,7 @@ A header linked list is a special type of linked list that contains a header nod
 <hr>
 
 ## Question 7 -> Which data structures are used for BFS and DFS of a graph ?
+
+BFS (Breadth First Search) finds the shortest path using the Queue data structure.
+
+DFS (Depth First Search) makes use of the Stack data structure.
