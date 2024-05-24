@@ -115,6 +115,4 @@ DFS (Depth First Search) makes use of the Stack data structure.
 
 ## Question 7 -> Can double linked be implemented using a single pointer variable in every node ?
 
-BFS (Breadth First Search) finds the shortest path using the Queue data structure.
-
-DFS (Depth First Search) makes use of the Stack data structure.
+No , a doubly linked list should have two pointer variables in every nodes since it has to hold the addresses of its previous node as well as the node after it. If a node doesn't have any previous node (the first node), the front pointer would remain null and in case of the last node, the rear node would be null.
