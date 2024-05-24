@@ -100,3 +100,8 @@ A Doubly Circular linked list or a circular two-way linked list is a more comple
 
 * **Header Linked List -**
 A header linked list is a special type of linked list that contains a header node at the beginning of the list. 
+
+
+<hr>
+
+## Question 7 -> Which data structures are used for BFS and DFS of a graph ?
