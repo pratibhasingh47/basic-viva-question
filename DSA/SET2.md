@@ -15,3 +15,11 @@ Follow the below steps to implement the idea:-
 <hr>
 
 ## Question 2 -> How to implement a queue using a stack ?  
+
+First approach: Making a dequeue operation costly
+
+If we implement the Queue using Stack by making a dequeue operation costly means that time complexity in enqueue operation would be O(1) and the time complexity in dequeue operation would be O(n).
+
+In this case, when we insert the elements in the stack then the elements are added on the top of the stack so it takes O(1) time.
+
+In case of dequeue operation, we need to consider two stacks named as Stack1 and Stack2. First, we insert the elements in the Stack1 and then we remove all the elements from the Stack1. Once all the elements are popped from the Stack1 then they are added in the Stack2. The topmost element would be popped out from the Stack2 and then all the elements from the Stack2 are moved back to Stack1. Here, dequeue operation is performed two times on the data so time complexity is O(n).
