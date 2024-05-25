@@ -14,4 +14,4 @@ Follow the below steps to implement the idea:-
 
 <hr>
 
-## Question 1 -> How to implement a queue using a stack ?  
+## Question 2 -> How to implement a queue using a stack ?  
