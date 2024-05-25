@@ -4,7 +4,7 @@
 
 ***Using only one queue and make the queue act as a Stack in modified way***
 
-Follow the below steps to implement the idea: 
+Follow the below steps to implement the idea:- 
 
 * The idea behind this approach is to make one queue and push the first element in it. 
 * After the first element, we push the next element and then push the first element again and finally pop the first element. 
