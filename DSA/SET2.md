@@ -35,7 +35,7 @@ Follow the below steps to implement the idea:-
 
 <hr>
 
-## Question 2 -> How to check if a given Binary Tree is BST or not? 
+## Question 3 -> How to check if a given Binary Tree is BST or not? 
 
 A **Binary Search Tree (BST)** is a node-based binary tree data structure that has the following properties. 
 
