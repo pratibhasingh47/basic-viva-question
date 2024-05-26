@@ -48,10 +48,3 @@ A **Binary Search Tree (BST)** is a node-based binary tree data structure that h
 <hr>
 
 ## Question 3 -> How to check if a given Binary Tree is BST or not? 
-
-A **Binary Search Tree (BST)** is a node-based binary tree data structure that has the following properties. 
-
-* The left subtree of a node contains only nodes with keys less than the node’s key.
-* The right subtree of a node contains only nodes with keys greater than the node’s key.
-* Both the left and right subtrees must also be binary search trees.
-* Each node (item in the tree) has a distinct key.
