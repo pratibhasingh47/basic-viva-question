@@ -31,3 +31,8 @@ Follow the below steps to implement the idea:-
 - First, we will consider two stacks named as stack1 and stack2. In case of enqueue operation, first all the elements will be popped from the stack1 and push it into the stack2. Once all the elements from the stack1 are pushed into the stack2, then the new element is added in the stack1. After adding the new element in the stack1, all the element are moved back from stack1 to stack2. Here, the time complexity of enqueue operation would be O(n).
 
 - In stack1, the oldest element would be at the top of the stack, so time taken to perform a dequeue operation would be O(1).
+
+
+<hr>
+
+## Question 2 -> How to check if a given Binary Tree is BST or not? 
