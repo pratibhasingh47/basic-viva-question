@@ -56,4 +56,4 @@ A ***Linear Search*** checks one by one each element of the array, without jumpi
 
 ## Question 5 -> What is binary search and its time complexity ? 
 
-A ***Linear Search*** checks one by one each element of the array, without jumping to any item. It searches the element in the array until a match is found. If the match is found then it returns the index of the item otherwise it returns the -1. The worst-case complexity of the Linear Search Algorithm is O(N), where N is the total number of elements in the list. 
+Binary Search Algorithm is a searching algorithm used in a sorted array by repeatedly dividing the search interval in half. The idea of binary search is to use the information that the array is sorted and reduce the time complexity to O(log N). 
