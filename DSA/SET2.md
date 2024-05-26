@@ -50,3 +50,10 @@ A **Binary Search Tree (BST)** is a node-based binary tree data structure that h
 ## Question 4 -> What is linear search and its time complexity ? 
 
 A ***Linear Search*** checks one by one each element of the array, without jumping to any item. It searches the element in the array until a match is found. If the match is found then it returns the index of the item otherwise it returns the -1. The worst-case complexity of the Linear Search Algorithm is O(N), where N is the total number of elements in the list. 
+
+
+<hr>
+
+## Question 5 -> What is binary search and its time complexity ? 
+
+A ***Linear Search*** checks one by one each element of the array, without jumping to any item. It searches the element in the array until a match is found. If the match is found then it returns the index of the item otherwise it returns the -1. The worst-case complexity of the Linear Search Algorithm is O(N), where N is the total number of elements in the list. 
