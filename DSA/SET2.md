@@ -47,4 +47,4 @@ A **Binary Search Tree (BST)** is a node-based binary tree data structure that h
 
 <hr>
 
-## Question 3 -> What is linear search and its time complexity ? 
+## Question 4 -> What is linear search and its time complexity ? 
