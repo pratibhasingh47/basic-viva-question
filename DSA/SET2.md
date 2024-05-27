@@ -57,3 +57,10 @@ A ***Linear Search*** checks one by one each element of the array, without jumpi
 ## Question 5 -> What is binary search algorithm and its time complexity ? 
 
 ***Binary Search Algorithm*** is a searching algorithm used in a sorted array by repeatedly dividing the search interval in half. The idea of binary search is to use the information that the array is sorted and reduce the time complexity to O(log N). 
+
+
+<hr>
+
+## Question 5 -> What is binary search algorithm and its time complexity ? 
+
+***Binary Search Algorithm*** is a searching algorithm used in a sorted array by repeatedly dividing the search interval in half. The idea of binary search is to use the information that the array is sorted and reduce the time complexity to O(log N). 
