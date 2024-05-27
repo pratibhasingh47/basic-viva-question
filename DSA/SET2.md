@@ -63,4 +63,4 @@ A ***Linear Search*** checks one by one each element of the array, without jumpi
 
 ## Question 6 -> Which data structure is used for dictionary and spell checker ?
 
-For a dictionary and spell checker, a commonly used data structure is a trie (also known as a prefix tree). 
+For a dictionary and spell checker, a commonly used data structure is a **trie** (also known as a prefix tree). 
