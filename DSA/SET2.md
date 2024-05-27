@@ -70,4 +70,4 @@ For a dictionary and spell checker, a commonly used data structure is a **trie**
 
 ## Question 7 -> Types of trees ? 
 
-For a dictionary and spell checker, a commonly used data structure is a **trie** (also known as a prefix tree). 
+
