@@ -70,4 +70,6 @@ For a dictionary and spell checker, a commonly used data structure is a **trie**
 
 ## Question 7 -> Types of trees ? 
 
-
+Binary Tree
+Generic Tree
+Ternary Tree
