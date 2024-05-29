@@ -91,3 +91,19 @@ For a dictionary and spell checker, a commonly used data structure is a **trie**
 * In operating systems, they can be used in Memory management, process scheduling and file system.
 * Linked lists can be used to improve the performance of algorithms that need to frequently insert or delete items from large collections of data.
 * Implementing algorithms such as the LRU cache, which uses a linked list to keep track of the most recently used items in a cache.
+  
+
+<hr>
+
+## Question 8 -> Application of linkedlist ? 
+
+* Linked Lists are used to implement stacks and queues.
+* It is used for the various representations of trees and graphs.
+* It is used in dynamic memory allocation( linked list of free blocks).
+* It is used for representing sparse matrices.
+* It is used for the manipulation of polynomials.
+* It is also used for performing arithmetic operations on long integers.
+* It is used for finding paths in networks.
+* In operating systems, they can be used in Memory management, process scheduling and file system.
+* Linked lists can be used to improve the performance of algorithms that need to frequently insert or delete items from large collections of data.
+* Implementing algorithms such as the LRU cache, which uses a linked list to keep track of the most recently used items in a cache.
