@@ -79,7 +79,7 @@ For a dictionary and spell checker, a commonly used data structure is a **trie**
 
 <hr>
 
-## Question 7 -> Types of trees ? 
+## Question 7 -> Application of linkedlist ? 
 
 * ***Binary tree***: In a binary tree, each node can have a maximum of two children linked to it. Some common types of binary trees include full binary trees, complete binary trees, balanced binary trees, and degenerate or pathological binary trees.
 
