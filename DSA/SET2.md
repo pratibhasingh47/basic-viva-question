@@ -106,5 +106,5 @@ For a dictionary and spell checker, a commonly used data structure is a **trie**
 
 ## Question 10 -> What is priority queue ? 
 
-* **Preorder** traversal visits the node in the order: *Root* -> *Left* -> *Right*
+ **Preorder** traversal visits the node in the order: *Root* -> *Left* -> *Right*
  **Inorder** traversal visits the node in the order: *Left* -> *Root* -> *Right*
