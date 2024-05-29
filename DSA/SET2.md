@@ -81,8 +81,13 @@ For a dictionary and spell checker, a commonly used data structure is a **trie**
 
 ## Question 7 -> Application of linkedlist ? 
 
-* ***Binary tree***: In a binary tree, each node can have a maximum of two children linked to it. Some common types of binary trees include full binary trees, complete binary trees, balanced binary trees, and degenerate or pathological binary trees.
-
-* ***Ternary Tree:*** A Ternary Tree is a tree data structure in which each node has at most three child nodes, usually distinguished as “left”, “mid” and “right”.
-  
-* ***N-ary Tree or Generic Tree***: Generic trees are a collection of nodes where each node is a data structure that consists of records and a list of references to its children(duplicate references are not allowed).
+Linked Lists are used to implement stacks and queues.
+It is used for the various representations of trees and graphs.
+It is used in dynamic memory allocation( linked list of free blocks).
+It is used for representing sparse matrices.
+It is used for the manipulation of polynomials.
+It is also used for performing arithmetic operations on long integers.
+It is used for finding paths in networks.
+In operating systems, they can be used in Memory management, process scheduling and file system.
+Linked lists can be used to improve the performance of algorithms that need to frequently insert or delete items from large collections of data.
+Implementing algorithms such as the LRU cache, which uses a linked list to keep track of the most recently used items in a cache.
