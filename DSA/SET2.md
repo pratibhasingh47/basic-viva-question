@@ -95,7 +95,7 @@ For a dictionary and spell checker, a commonly used data structure is a **trie**
 
 <hr>
 
-## Question 8 -> Application of linkedlist ? 
+## Question 8 -> What is preorder , inorder , postorder in tree traversal ? 
 
 * Linked Lists are used to implement stacks and queues.
 * It is used for the various representations of trees and graphs.
