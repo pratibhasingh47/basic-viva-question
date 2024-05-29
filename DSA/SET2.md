@@ -95,5 +95,5 @@ For a dictionary and spell checker, a commonly used data structure is a **trie**
 
 <hr>
 
-## Question 8 -> What is preorder , inorder , postorder in tree traversal ? 
+## Question 9 -> What is preorder , inorder , postorder in tree traversal ? 
 
