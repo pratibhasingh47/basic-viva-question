@@ -79,7 +79,7 @@ For a dictionary and spell checker, a commonly used data structure is a **trie**
 
 <hr>
 
-## Question 7 -> Application of linkedlist ? 
+## Question 8 -> Application of linkedlist ? 
 
 * Linked Lists are used to implement stacks and queues.
 * It is used for the various representations of trees and graphs.
