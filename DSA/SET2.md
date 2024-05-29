@@ -100,3 +100,11 @@ For a dictionary and spell checker, a commonly used data structure is a **trie**
 * **Preorder** traversal visits the node in the order: *Root* -> *Left* -> *Right*
 * **Inorder** traversal visits the node in the order: *Left* -> *Root* -> *Right*
 * **Postorder** traversal visits the node in the order: *Left* -> *Right* -> *Root*
+
+<hr>
+
+## Question 9 -> What is preorder , inorder , postorder in tree traversal ? 
+
+* **Preorder** traversal visits the node in the order: *Root* -> *Left* -> *Right*
+* **Inorder** traversal visits the node in the order: *Left* -> *Root* -> *Right*
+* **Postorder** traversal visits the node in the order: *Left* -> *Right* -> *Root*
