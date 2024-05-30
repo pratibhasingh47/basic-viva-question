@@ -1,3 +1,3 @@
 <hr>
 
-## Question 1 -> How to implementa stack using queue ? 
+## Question 1 -> What is C++? What are the advantages of C++?  
