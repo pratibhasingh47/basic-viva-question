@@ -39,13 +39,13 @@
 **Data Types in C++ are Mainly Divided into 3 Types:**
 
 ***1. Primitive Data Types***: These data types are built-in or predefined data types and can be used directly by the user to declare variables. example: int, char, float, bool, etc. Primitive data types available in C++ are: 
-Integer
-Character
-Boolean
-Floating Point
-Double Floating Point
-Valueless or Void
-Wide Character
+* Integer
+* Character
+* Boolean
+* Floating Point
+* Double Floating Point
+* Valueless or Void
+* Wide Character
 
 ***2. Derived Data Types***: Derived data types that are derived from the primitive or built-in datatypes are referred to as Derived Data Types. These can be of four types namely: 
 Function
