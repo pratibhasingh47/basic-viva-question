@@ -64,5 +64,5 @@
 
 <hr>
 
-## Question 2 -> What are the different data types present in C++? 
+## Question 2 -> What are references in C++ ?
 
