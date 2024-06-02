@@ -64,5 +64,5 @@
 
 <hr>
 
-## Question 2 -> What are references in C++ ?
+## Question 3 -> What are references in C++ ?
 
