@@ -66,4 +66,3 @@
 
 ## Question 2 -> What are the different data types present in C++? 
 
-####  **Data Types in C++ are Mainly Divided into 3 Types:**
