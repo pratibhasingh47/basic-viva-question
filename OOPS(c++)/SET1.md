@@ -80,6 +80,11 @@ data_type &ref = variable;
 
 ## Question 4 -> Define token in C++. 
 
-When a variable is declared as a reference, it becomes an alternative name for an existing variable. A variable can be declared as a reference by putting ‘&’ in the declaration. 
+We have several types of tokens each of which serves a specific purpose in the syntax and semantics of C++. Below are the main types of tokens in C++:
 
-Also, we can define a reference variable as a type of variable that can act as a reference to another variable. ‘&’ is used for signifying the address of a variable or any memory. Variables associated with reference variables can be accessed either by its name or by the reference variable associated with it.
+* Identifiers
+* Keywords
+* Constants
+* Strings
+* Special Symbols
+* Operators
