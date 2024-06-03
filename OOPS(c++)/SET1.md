@@ -92,11 +92,12 @@ We have several types of tokens each of which serves a specific purpose in the s
 
 <hr>
 
-## Question 5 -> What do you mean by Call by Value and Call by Reference ? 
+## Question  -> What do you mean by Call by Value and Call by Reference ? 
 
 **Call by Value in C++**
 
 In the call-by-value method, function arguments are passed by copying the value of the actual parameter, ensuring the original values remain unchanged. The value is copied to the formal parameter.
 
 **Call by Reference in C++**
+
 In the call-by-reference method, the memory address (reference) of the actual parameter is passed to the function, allowing direct access and modification of the original values. The actual and the formal parameters point to the same memory address. Any changes made to the parameters within the function are directly reflected in the original values outside the function.
