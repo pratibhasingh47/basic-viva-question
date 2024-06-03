@@ -88,3 +88,17 @@ We have several types of tokens each of which serves a specific purpose in the s
 * Strings
 * Special Symbols
 * Operators
+
+
+<hr>
+
+## Question  -> What do you mean by Call by Value and Call by Reference ? 
+
+We have several types of tokens each of which serves a specific purpose in the syntax and semantics of C++. Below are the main types of tokens in C++:
+
+* Identifiers
+* Keywords
+* Constants
+* Strings
+* Special Symbols
+* Operators
