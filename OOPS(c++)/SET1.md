@@ -94,11 +94,7 @@ We have several types of tokens each of which serves a specific purpose in the s
 
 ## Question 5 -> What do you mean by Call by Value and Call by Reference ? 
 
-We have several types of tokens each of which serves a specific purpose in the syntax and semantics of C++. Below are the main types of tokens in C++:
+**Call by Value in C++**
 
-* Identifiers
-* Keywords
-* Constants
-* Strings
-* Special Symbols
-* Operators
+In the call-by-value method, function arguments are passed by copying the value of the actual parameter, ensuring the original values remain unchanged. The value is copied to the formal parameter.
+
