@@ -105,7 +105,7 @@ In the call-by-reference method, the memory address (reference) of the actual pa
 
 <hr>
 
-## Question 5 -> What is polymorphism in C++ ? 
+## Question 6 -> What is polymorphism in C++ ? 
 
 **Call by Value in C++**
 
