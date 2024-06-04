@@ -106,8 +106,3 @@ In the call-by-reference method, the memory address (reference) of the actual pa
 <hr>
 
 ## Question 6 -> What is polymorphism in C++ ? 
-
-**Call by Value in C++**
-
-In the call-by-value method, function arguments are passed by copying the value of the actual parameter, ensuring the original values remain unchanged. The value is copied to the formal parameter.
-
