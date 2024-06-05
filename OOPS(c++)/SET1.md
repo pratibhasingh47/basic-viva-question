@@ -114,3 +114,6 @@ The word “polymorphism” means having many forms. In simple words, we can def
 
 ## Question 7 -> When should we use multiple inheritance ? 
 
+**Multiple inheritance** means that a subclass can inherit from two or more superclasses. C++ allows multiple inheritance, but Java allows only single inheritance, that is, a subclass can inherit only one superclass.
+
+Multiple inheritance is useful when a subclass needs to combine multiple contracts and inherit some, or all, of the implementation of those contracts. For example, the AmericanStudent class needs to inherit from both the Student class and the American class. 
