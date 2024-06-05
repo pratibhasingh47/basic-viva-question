@@ -121,7 +121,7 @@ The word “polymorphism” means having many forms. In simple words, we can def
 
 <hr>
 
-## Question 7 -> Explain inheritance. And use of inheritance in cpp programming
+## Question 8 -> Explain inheritance. And use of inheritance in cpp programming
 
 **Multiple inheritance** means that a subclass can inherit from two or more superclasses. C++ allows multiple inheritance, but Java allows only single inheritance, that is, a subclass can inherit only one superclass.
 
