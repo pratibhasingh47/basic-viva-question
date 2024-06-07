@@ -133,7 +133,7 @@ Inheritance is a feature or a process in which, new classes are created from the
 
 <hr>
 
-## Question 8 -> Explain the constructor in C++. 
+## Question 9 -> Explain the constructor in C++. 
 
 The capability of a class to derive properties and characteristics from another class is called **Inheritance**. Inheritance is one of the most important features of Object-Oriented Programming. 
 
