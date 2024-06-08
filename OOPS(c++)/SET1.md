@@ -148,7 +148,7 @@ Inheritance is a feature or a process in which, new classes are created from the
 
 <hr>
 
-## Question 9 -> How many types of constructor? 
+## Question 9 -> How many types of constructor ? 
 
 **Constructor** in C++ is a special method that is invoked automatically at the time of object creation. It is used to initialize the data members of new objects generally. The constructor in C++ has the same name as the class or structure. It constructs the values i.e. provides data for the object which is why it is known as a constructor.
 
