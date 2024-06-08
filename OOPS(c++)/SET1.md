@@ -155,3 +155,6 @@ A default constructor is a constructor that doesn’t take any argument. It has 
 
 2. **Parameterized Constructor in C++**  - 
 Parameterized Constructors make it possible to pass arguments to constructors. Typically, these arguments help initialize an object when it is created. To create a parameterized constructor, simply add parameters to it the way you would to any other function. When you define the constructor’s body, use the parameters to initialize the object.
+
+3. **Copy Constructor in C++**  - 
+A copy constructor is a member function that initializes an object using another object of the same class.
